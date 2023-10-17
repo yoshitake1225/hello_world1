@@ -10,3 +10,4 @@
  - さらにnanoで編集しました
 owata
 wakaranai
+吉村岳大
