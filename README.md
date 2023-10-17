@@ -5,3 +5,4 @@
 
 行を追加
 これはテストです。
+New line added by a local environment.
